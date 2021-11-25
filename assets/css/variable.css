@@ -1,0 +1,51 @@
+:root{
+    --color1:#1f456d;
+    --color2:#1f456e;
+    --color3:#ffb101;
+    --color4:#f2a802;
+    --color5:#ff9415;
+    --color6:#fff;
+    --color7:#fdfdfd;
+    --color8:#f0f0f5;
+    --color9:#0B8EDC;
+    --color10:#3D4245;
+    --color11:#0277BD; 
+    --color12:#F38C0F; 
+    --color13:#D5EEFA;
+    --color14:#707070;
+    --color15:#F1F1F1;
+    --color16:#161616;
+    --color17:#F6F6F6;
+    --color18:#2EC79B;
+    --color19:#F12D52;
+    --color20:#1293EC;
+    --color21:#FF793E;
+    --color22:#FF648B;
+    --color23:#DEF3FF;
+    --color24:#83C9F3;
+    --color25:#F4C150;
+    --color26:#000;
+
+    /*  comon fonts*/
+    --fontSize10: 10px;
+    --fontSize12: 12px;
+    --fontSizeXs: 13px;
+    --fontSizeS: 14px;
+    --fontSizeM: 15px;
+    --fontSize16:16px;
+    --fontSize18:18px;
+    --fontSize18:16px;
+    --fontSize20:20px;
+    --fontSize22:22px;
+    --fontSize23:23px;
+    --fontSize24:24px;
+    --fontSize25:25px;
+    --fontSize26:26px;
+    --fontSize28:28px;
+    --fontSize30:30px;
+    --fontSize32:32px;
+    --fontSize36:36px;
+    --fontSize44:44px;
+    --fontSize56:56px;
+    --fontSize64:64px;
+}

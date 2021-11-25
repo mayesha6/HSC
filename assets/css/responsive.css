@@ -1,0 +1,481 @@
+@media only screen and (min-width: 1400px) {
+    /* .container{
+      max-width:1170px;
+      width:100%;
+    } */
+    /*
+  ****************************************************
+              start dreamers page
+  ****************************************************
+*/
+  }
+@media only screen and (max-width: 1199px) {
+/*
+  ****************************************************
+              start dreamers page
+  ****************************************************
+*/
+/*course section*/
+.course {
+  transform: translateY(-40%);
+}
+/*course section*/
+/*pakage section*/
+.pakageTxt h2::before {
+  left: 4%;
+}
+/*pakage section*/
+/*
+  ****************************************************
+              start lecture page
+  ****************************************************
+*/
+/*free Vdo section*/
+.sLCIcon i {
+  font-size: 15px;
+}
+/*free Vdo section*/
+  }
+@media only screen and (max-width: 991px) {
+  /*common css*/
+  .sectionPadding {
+    padding: 90px 0px;
+}
+  /*common css*/
+  /*header section*/
+  .loginBtn a, .headerSection .nav-a {
+    margin-left: 0px;
+    text-align: center;
+    background: transparent;
+    color: var(--color1)!important;
+    padding: 12px 0px!important;
+    transition: 0.3s all;
+}
+  .loginBtn a:hover,.headerSection .nav-a:hover {
+    box-shadow: 2px 4px 10px var(--color1);
+    background:transparent;
+}
+  /*header section*/
+    /*banner section*/
+    .bannerContent, .downloadContent {
+      order: 2;
+  }
+  .bannerContentHeading h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+.bannerContentSubHeading p {
+  margin: 25px 0 45px;
+}
+  .bannerContentHeading,.bannerContentSubHeading ,.commonBtn {
+    text-align: center;
+  }
+  
+    .bannerImg,.downloadImg,.dreamBnrSection .bannerImg {
+      order: 1;
+      margin: 0 auto 35px;
+  }
+    /*banner section*/
+    /*app section*/
+    .singleApp {
+      margin-bottom: 20px;
+  }
+    /*app section*/
+    /*creer section*/
+    .cWSCWrap {
+      padding: 26px 20px 25px;
+  }
+    /*creer section*/
+    /*skill section*/
+    .singleSkillContent {
+      margin-bottom: 25px;
+  }
+    /*skill section*/
+    /*download section*/
+    .downloadContent .title {
+      text-align: center;
+      padding-bottom: 20px;
+
+  }
+    /*download section*/
+    /*footer section*/
+    .footer:first-child {
+      margin-bottom: 30px;
+  }
+    .footer:nth-child(2) {
+      margin-bottom: 30px;
+  }
+    /*footer section*/
+/*
+  ****************************************************
+              start dreamers page
+  ****************************************************
+*/
+/*common section*/
+.dSectionPadding {
+  padding: 0px 0px 90px 0;
+}
+/*common section*/
+/*course section*/
+.course {
+  transform: translateY(0%);
+  padding: 60px 0px 40px;
+}
+/*course section*/
+/*learn section*/
+.learnSection {
+  padding: 90px 0px 90px 0;
+}
+/*learn section*/
+/*pakage section*/
+.pakage {
+  padding: 0px 47px ;
+}
+.pakageTxt h2 {
+  font-size: 30px;
+}
+.pakageTxt h2::before {
+  width: 200px;
+  height: 47px;
+  left: 6%;
+  top: 2%;
+}
+.pakageTxt p {
+  font-size: 20px;
+  line-height: 24px;
+}
+.pakageTxt a {
+  font-size: 18px;
+  line-height: 24px;
+  padding: 5px 30px;
+}
+.singlePakage {
+  transition: 0.3s all;
+  margin-bottom: 25px;
+}
+/*pakage section*/
+/*
+  ****************************************************
+              start lecture page
+  ****************************************************
+*/
+/*free Vdo section*/
+.sLCIcon i {
+  font-size: 20px;
+}
+.vdoLeftContent {
+  padding-bottom: 69px;
+}
+#vdoLectureIcon {
+  max-width: 90px;
+  width: 100%;
+  height: 90px;
+}
+/*free Vdo section*/
+
+  }
+@media only screen and (max-width: 767px) {
+    /*common css*/
+    .sectionPadding {
+      padding: 50px 0px;
+  }
+  .commonBtn a {
+    font-size: 20px;
+    padding: 13px 40px;
+}
+  .title {
+    padding-bottom: 50px;
+}
+    /*common css*/
+ /*banner section*/
+ .bannerContentHeading h1 {
+  font-size: 39px;
+  line-height: 49px;
+}
+ .bannerSingleContentxt p {
+  font-size: 16px;
+  font-weight: 500;
+}
+ /*banner section*/
+ /*app section*/
+ .singleApp {
+  padding: 30px;
+  margin-bottom: 15px;
+}
+ .singleApp p {
+  font-size: 16px;
+}
+ /*app section*/
+ /*career section*/
+ .cWSCWrap {
+  padding: 20px 3px 20px;
+}
+.cWSingleContentFooter {
+  padding: 17px 5px 0;
+}
+ /*career section*/
+
+ /*skill section*/
+ .singleSkillContent p {
+  padding: 12px 10px 0;
+}
+ /*skill section*/
+ /*proud section*/
+ .singleProudContent:not(:last-child) {
+  margin-bottom: 25px;
+}
+ /*proud section*/
+ /*footer section*/
+ .footerLogo img {
+  max-width: 210px;
+}
+.footer p {
+  padding: 12px 0 0;
+  font-size: 18px;
+}
+.footerMenu a {
+  font-size: 17px;
+  padding-bottom: 17px;
+}
+ /*footer section*/
+
+/*
+  ****************************************************
+              start dreamers page
+  ****************************************************
+*/
+/*common section*/
+.dSectionPadding {
+  padding: 0px 0px 70px 0;
+}
+/*common section*/
+/*learn section*/
+.learnSection {
+  padding: 70px 0px 70px 0;
+  margin-bottom:120px;
+}
+/*learn section*/
+ /*pakage section css*/
+ .pakage {
+  padding: 0px 30px;
+}
+ .pakageTxt h2 {
+  font-size: 25px;
+}
+ .pakageTxt h2::before {
+  width: 171px;
+  height: 41px;
+  left: 1%;
+  top: 10%;
+}
+.pakageTxt p {
+  font-size: 18px;
+  line-height: 20px;
+}
+.othersPakage h3 {
+  font-size: 30px;
+  line-height: 32px;
+  color: var(--color10);
+  margin: 40px 0px 20px;
+}
+ /*pakage section css*/
+ /*offer css*/
+ .dreamersTitle .titleHeading {
+  font-size: 45px;
+  line-height: 57px;
+}
+ /*offer css*/
+ /*footer css*/
+.dreamersFooterSection .footerMeta {
+  padding: 35px 0px;
+}
+/*footer css*/
+/*
+  ****************************************************
+              start lecture page
+  ****************************************************
+*/
+/*free Vdo section*/
+section.freeVdoSection {
+  padding: 69px 0px 120px;
+}
+/*free Vdo section*/
+  }
+@media only screen and (max-width: 575px) {
+    /*common css*/
+    .sectionPadding {
+      padding: 50px 0px;
+  }
+  .titleHeading {
+    font-size: 28px;
+}
+.commonBtn a {
+  margin-top:10px;
+  padding: 12px 33px;
+}
+  /*common css*/
+  /*header css*/
+  .headerSection .navbar-brand {
+    max-width: 224px;
+}
+  /*header css*/
+  /*banner css*/
+  .bannerSingleContentImg img {
+    display: block;
+    margin: 0 0 0 auto;
+}
+  /*banner css*/
+  /*proud css*/
+  .singleProudContent:nth-child(3) {
+    margin-bottom: 0px;
+}
+  /*proud css*/
+  /*footer section*/
+  .footer:nth-child(3) {
+    margin-bottom: 30px;
+}
+  /*footer section*/
+/*
+  ****************************************************
+              start dreamers page
+  ****************************************************
+*/
+/*common section*/
+.commonBtn a img {
+  margin-right: 10px;
+}
+/*common section*/
+/*banner section*/
+.dreamBnrSection .bannerContentHeading h1 {
+  font-size: 50px;
+  line-height: 55px;
+  margin-bottom:20px;
+}
+span.bCHBold {
+  font-size: 45px;
+}
+.dreamBnrSection .bannerContentSubHeading p {
+  font-size: 20px;
+  line-height: 28px;
+}
+.dreamBnrSection .commonBtn a {
+  font-size: 18px;
+  line-height: 25px;
+}
+/*banner section*/
+
+/*pakage section*/
+.pakageImg {
+  max-width: 170px;
+  max-height: 170px;
+  order: 1;
+  transform: translate(0);
+  margin: 0 auto;
+}
+.pakageTxt h2::before {
+  width: 210px;
+  left: 19%;
+}
+.pakageTxt {
+  order: 2;
+}
+/*pakage section*/
+  /*footer css*/
+.dreamersFooterSection .footerMeta {
+  padding: 25px 0px;
+}
+/*footer css*/
+/*
+  ****************************************************
+              start lecture page
+  ****************************************************
+*/
+/*bannar section*/
+.lBnrcontent {
+  justify-content: center;
+  flex-direction: column;
+}
+.lBnrImg {
+  margin-bottom: 20px;
+}
+.lBnrTxt {
+  margin: 0;
+}
+.lBnrTxt h3 {
+  font-size: 38px;
+  line-height: 50px;
+}
+#vdoLectureIcon {
+  max-width: 90px;
+  width: 100%;
+  height: 90px;
+}
+.lectureMenu ul {
+  padding: 40px 0 0 0;
+  justify-content: center;
+}
+/*bannar section*/
+ 
+  }
+@media only screen and (max-width: 350px) {
+    /*common css*/
+  .titleHeading {
+    font-size: 26px;
+}
+.titleSubHeading {
+  font-size: 18px;
+}
+  /*common css*/
+  /*banner css*/
+  .bannerContentHeading h1 {
+    font-size: 37px;
+    line-height: 47px;
+}
+.bannerContentSubHeading p {
+  margin: 15px 0 35px;
+  font-size: 16px;
+  line-height:26px;
+}
+  .bannerSingleContentImg {
+    padding-left: calc(var(--bs-gutter-x) * .5);
+}
+  /*banner css*/
+  /*
+  ****************************************************
+              start dreamers page
+  ****************************************************
+*/
+ /*banner section*/
+ .dreamBnrSection .bannerContentHeading h1 {
+  font-size: 40px;
+  line-height: 50px;
+  margin-bottom: 15px;
+}
+ span.bCHBold {
+  font-size: 40px;
+}
+.dreamBnrSection .commonBtn a {
+  font-size: 15px;
+  line-height: 22px;
+}
+/*banner section*/ 
+/*pakage section*/ 
+.pakageTxt h2::before {
+  width: 168px;
+  left: 5%;
+}
+/*pakage section*/ 
+/*offer section*/ 
+.dreamersTitle .titleHeading {
+  font-size: 35px;
+  line-height: 45px;
+}
+/*offer section*/ 
+/*course section*/
+.course {
+  transform: translateY(0%);
+  padding: 50px 0px 30px;
+}
+/*course section*/
+}
+

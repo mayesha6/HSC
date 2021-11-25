@@ -1,0 +1,108 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    color: var(--color2);
+    font-family: 'FedraSansBangla';
+}
+body{
+    margin:0px;
+    padding:0px;
+}
+h1,h2,h3,h4,h5,h6{
+    margin:0px;
+    padding:0px;
+    font-weight:700;
+}
+p{
+    margin:0px;
+    padding:0px;
+}
+ul{
+    margin:0px;
+    padding:0px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration:none;
+}
+img{
+    width:100%;
+}
+*:focus {
+    outline: none;
+}
+.sectionPadding{
+    padding: 120px 0px;;
+}
+.dSectionPadding{
+    padding: 0px 0px 120px 0;
+}
+.commonBtn a {
+    background: var(--color3);
+    color: var(--color6);
+    font-size: 27px;
+    display: inline-block;
+    padding: 13px 50px;
+    margin-top: 20px;
+    font-weight: 700;
+    transition:0.7s all;
+}
+.commonBtn a:hover {
+    background: var(--color1);
+}
+.commonBtn a img {
+    width: 27px;
+    height: 27px;
+    margin-right: 20px;
+}
+.title {
+    text-align: center;
+    padding-bottom: 65px;
+}
+.titleHeading {
+    font-size: 36px;
+    padding-bottom: 15px;
+}
+.titleSubHeading {
+    font-size: 20px;
+    font-weight: 400;
+}
+.dreamersTitle .titleHeading {
+    color: var(--color16);
+}
+.dreamersTitle .titleSubHeading {
+    color: var(--color16);
+}
+@font-face{
+    src: url('../fonts/FedraSansBangla-Medium.otf');
+    font-family: 'FedraSansBangla';
+    font-style:normal;
+    font-weight:500;
+}
+@font-face{
+    src: url('../fonts/FedraSansBangla-Bold_0.otf');
+    font-family: 'FedraSansBangla';
+    font-style:normal;
+    font-weight:700;
+}
+@font-face{
+    src: url('../fonts/FedraSansBangla-Book.otf');
+    font-family: 'FedraSansBangla';
+    font-style:normal;
+    font-weight:200;
+}
+@font-face{
+    src: url('../fonts/FedraSansBangla-Demi.otf');
+    font-family: 'FedraSansBangla';
+    font-style:normal;
+    font-weight:400;
+}
+@font-face{
+    src: url('../fonts/FedraSansBangla-Light.otf');
+    font-family: 'FedraSansBangla';
+    font-style:normal;
+    font-weight:300;
+}
